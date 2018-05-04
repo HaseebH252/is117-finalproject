@@ -56,12 +56,12 @@ footer {
     color: rgba(255, 255, 255, .5);
     background-color: inherit;
     font-family: inherit;
-    /* Important for vertical align on mobile phones */
+
     margin: 0;
-    /* Important for vertical align on mobile phones */
+
 }
 
-/*blue background color to navbar links on hover */
+/*blue background color to navbar  on hover */
 
 .navbar a:hover,
 .dropdown:hover .dropbtn .dropdown-content a:hover {
